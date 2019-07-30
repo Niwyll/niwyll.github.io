@@ -1,0 +1,14 @@
+#btnAdd {
+	background-color: #f44336;
+	color: white;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	padding: 10px 24px;
+	border-radius: 8px;
+}
+
+#btnAdd:hover {
+	background-color: #bb0b0b;
+}
