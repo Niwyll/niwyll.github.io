@@ -4,17 +4,17 @@ const dynamicManifest = {
   "display": "standalone",
   "icons": [
     {
-        "src": "/icon-192.png",
+        "src": "https://niwyll.github.io/icon-192.png",
         "type": "image/png",
         "sizes": "192x192"
     },
     {
-        "src": "/icon-512.png",
+        "src": "https://niwyll.github.io/icon-512.png",
         "type": "image/png",
         "sizes": "512x512"
     }
   ],
-  "start_url": "/",
+  "start_url": "https://niwyll.github.io",
   "background_color": "#E5E5E5",
   "theme_color": "#F3554C"
 };
